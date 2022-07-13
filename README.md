@@ -32,8 +32,8 @@ git push origin main
 
 To setup CI/CD pipeline in heroku we need 3 information
 1.HEROKU_EMAIL:abcd@gmail.com
-2.HEROKU_API_KEY:ac1945b0-a664-40af-bfde-f4bf6c06eef6
-3.HEROKU_APP_NAME:ml-regression-applic
+2.HEROKU_API_KEY:
+3.HEROKU_APP_NAME:ml-applic
 Note:to delete any application in keroku first click on the application,go to settings,scroll down and click delete app and enter the app name and delete
 
 BUILD DOCKER IMAGE:
