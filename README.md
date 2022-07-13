@@ -44,7 +44,7 @@ TO LIST DOCKER IMAGE:
 docker images
 
 TO RUN DOCKER IMAGE:
-docker run -p 5000:5000 -e PORT=5000 <image_id>(docker run -p 5000:5000 -e PORT=5000 3ef4b44ec1b3)
+docker run -p 5000:5000 -e PORT=5000 <image_id>(docker run -p 5000:5000 -e PORT=5000 3ef47uggb7g)
 
 TO CHECK RUNNING CONTAINERS IN DOCKER:
 docker ps
